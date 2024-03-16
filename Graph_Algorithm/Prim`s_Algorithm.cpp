@@ -109,7 +109,7 @@ template <typename T>
 struct Label
 {
 	unsigned ID; // 정점 ID
-	T distance;  // 시작점으로부터의 거리
+	T distance;  // 경계로부터의 거리
 
 	// Label 객체 비교 함수
 	inline bool operator> (const Label<T>& I) const
