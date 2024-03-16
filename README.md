@@ -1,6 +1,6 @@
 # Cpp_Datastructure_Algorithm
 
->- C++ 자료구조 및 알고리즘에 관한 코드 저장소
+>- C++ 알고리즘에 관한 코드 저장소
 
 </br>
 
