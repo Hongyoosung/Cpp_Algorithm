@@ -1,4 +1,4 @@
-# Cpp_Datastructure_Algorithm
+# Cpp_Algorithm
 
 >- C++ 알고리즘에 관한 코드 저장소
 
