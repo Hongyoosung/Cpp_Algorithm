@@ -1,6 +1,8 @@
 # Cpp_Algorithm
 
->- C++ 알고리즘에 관한 코드 저장소
+> C++ 알고리즘에 관한 코드 저장소
+>
+>  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://hyss.notion.site/C-Data-Structure-d643201839c14ea18ea23bcb4f10c04f?pvs=4)
 
 </br>
 
